@@ -18,7 +18,6 @@ The game displays a randomly generated RGB color code and presents six color opt
 ## Technologies Used
 
 * HTML5
-* CSS3
 * JavaScript 
 
 ## How It Works
